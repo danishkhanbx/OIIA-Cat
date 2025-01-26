@@ -50,8 +50,8 @@ The scripts to create market id, create new lp, and burn token are only availabl
 ## Contact
 
 For community discussions on sniper bots and creating new tokens:
-[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/yNS6JpTv)
+[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.com/invite/dwKeUzkr46)
 
 For any business inquiries, reach out at:
 
-- Telegram: `archiekomik`
+- Telegram: `danishkhanbx`
