@@ -1,3 +1,14 @@
+# Join the $oiia Revolution
+
+- **CA: 8AhBuyjEfvkiNRkfoUxGWrWmHZkhF85Q21yL1L6BaheM**
+- Buy on Gecko: https://www.geckoterminal.com/solana/pools/2bebPfEiracFWf1CU8ihK6rVTKmvG9CpEU2r3Buq62Lr
+- Website: https://oiia.life/
+- Telegram: https://t.me/CatMemeTokens
+- Twitter: https://x.com/oiiacattoken
+- Discord: https://discord.com/invite/dwKeUzkr46
+
+---
+
 # How to create and launch solana meme coin token
 
 This codebase provides pre-built scripts to help you:
